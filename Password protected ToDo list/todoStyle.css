@@ -1,0 +1,141 @@
+body {
+	background-image: url("http://www.ballastmedia.com/wp-content/uploads/RedBackground.jpg");
+	font-family:"Helvetica";
+	font-size: 15px;
+	padding-left: 60px;
+	padding-right: 60px;
+	text-align:justify;
+	background-color: #1F618D;
+	color:white;
+}
+#header {
+	background-color: #154360;
+	background-color: #566066;
+	height: 55px;
+}
+#headerText {
+	padding-top:10px;
+}
+#createTask {
+	height: 125px;
+	width: 200 px;
+	margin-left: 540px;
+	margin-right: 500px;
+	background-color: #0a4766;
+	background-image: url("https://www.hausjournal.net/wp-content/uploads/Wandfarbe-aufhellen.jpg");
+	border: 2px solid black;
+	padding: 25px;
+	padding-top:10px;
+}
+#createTask input{
+	padding: 7px;
+	margin: 5px;
+}
+#label1 {
+	padding-left: 37px;
+}
+#label3 {
+	padding-left: 10px;
+}
+#noLabel{
+	padding-left: 115px;
+}
+#holder {
+	background-color: #363738;	
+	background-image: url("https://www.hausjournal.net/wp-content/uploads/Wandfarbe-aufhellen.jpg");
+	height: 500px;
+	padding-left: 50px;
+	padding-top: 30px;
+	border: 3px solid black;
+	font-family: comic sans ms;
+}
+.tasks {
+	background-color: #dee1ea;
+	width: 220px;
+	height: 200px;
+	color:black;
+	border: 2px solid black;
+	float: left;
+	margin: 11px;
+	padding-left: 10px;
+	padding-top: 5px;
+}
+.tasks div {
+	display:block;
+	padding: 5px;
+}
+
+#btn1 {
+	padding-top: 15px;
+	padding-left: 55px;
+}
+#btn2 {
+	padding-top: 15px;
+	padding-left: 55px;
+}
+#btn3 {
+	padding-top: 15px;
+	padding-left: 55px;
+}
+#btn4 {
+	padding-top: 15px;
+	padding-left: 55px;
+}
+#btn5 {
+	padding-top: 15px;
+	padding-left: 55px;
+}
+#btn6 {
+	padding-top: 15px;
+	padding-left: 55px;
+}
+#btn7 {
+	padding-top: 15px;
+	padding-left: 55px;
+}
+#btn8 {
+	padding-top: 15px;
+	padding-left: 55px;
+}
+#btn9 {
+	padding-top: 15px;
+	padding-left: 55px;
+}
+#btn10 {
+	padding-top: 15px;
+	padding-left: 55px;
+}
+#row2{
+	float:left;
+	margin-right: 0px;
+}
+#t1Complete{
+	font-family: comic sans ms;
+}
+#t2Complete{
+	font-family: comic sans ms;
+}
+#t3Complete{
+	font-family: comic sans ms;
+}
+#t4Complete{
+	font-family: comic sans ms;
+}
+#t5Complete{
+	font-family: comic sans ms;
+}
+#t6Complete{
+	font-family: comic sans ms;
+}
+#t7Complete{
+	font-family: comic sans ms;
+}
+#t8Complete{
+	font-family: comic sans ms;
+}
+#t9Complete{
+	font-family: comic sans ms;
+}
+#t10Complete{
+	font-family: comic sans ms;
+}
